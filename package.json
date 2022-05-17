@@ -1,0 +1,20 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Rangeraluffy/Social-Network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rangeraluffy/Social-Network/issues"
+  },
+  "homepage": "https://github.com/Rangeraluffy/Social-Network#readme"
+}
